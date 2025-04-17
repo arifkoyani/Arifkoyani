@@ -1,7 +1,7 @@
 ![logo](https://github.com/msaqlain143/msaqlain143/blob/main/Brown%20%26%20Black%20Geometric%20Personal%20Branding%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Engr Arif ali koyani</h1>
 <h3 align="center">A passionate Web developer from Pakistan</h3>
-<img align="right" width="400" src="https://cdn-images-1.medium.com/fit/t/1600/480/1*IRGHmiGsa16stedQvIaZfw.gif" alt="Coding">
+<img align="right" width="400" src="https://media.licdn.com/dms/image/v2/D4D03AQFfgQPJXupT1g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1724961457567?e=1750291200&v=beta&t=DPlT-eRDxU52-pI_fYxuvMpS_2e1aVzbA0U5FKj9UHA" alt="Coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msaqlain143&label=Profile%20views&color=0e75b6&style=flat" alt="msaqlain143" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML, CSS ,Bootstrap ,JavaScript , Python**
 
-- 📫 How to reach me **muhammadsaqlain.cse@gmail.com**
+- 📫 How to reach me **arifkoyani.cse@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
