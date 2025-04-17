@@ -1,4 +1,4 @@
-![logo](https://github.com/msaqlain143/msaqlain143/blob/main/Brown%20%26%20Black%20Geometric%20Personal%20Branding%20LinkedIn%20Banner%20(1).png)
+![logo](https://media.licdn.com/dms/image/v2/D4D03AQFfgQPJXupT1g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1724961457567?e=1750291200&v=beta&t=DPlT-eRDxU52-pI_fYxuvMpS_2e1aVzbA0U5FKj9UHA)
 <h1 align="center">Hi 👋, I'm Engr Arif ali koyani</h1>
 <h3 align="center">A passionate Web developer from Pakistan</h3>
 <img align="right" width="400" src="https://media.licdn.com/dms/image/v2/D4D03AQFfgQPJXupT1g/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1724961457567?e=1750291200&v=beta&t=DPlT-eRDxU52-pI_fYxuvMpS_2e1aVzbA0U5FKj9UHA" alt="Coding">
